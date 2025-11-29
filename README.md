@@ -1,3 +1,3 @@
 # uday1
-this is my first git <br>
+this is my first git 
 author - uday vala
